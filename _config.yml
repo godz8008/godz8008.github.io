@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Kim Shin"
   avatar : "/assets/images/bear.png"
-  bio    : "마음 가는데로.. 생각 가는데로.. 인생 즐기기"
+  bio    : "마음 가는데로.. 생각 가는데로.. 
+  인생 즐기기"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
