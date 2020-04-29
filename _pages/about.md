@@ -3,6 +3,23 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 길위에서  
+##### 신해철
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+차가워지는 겨울바람사이로 난 거리에 서있었네  
+크고 작은 길들이 만나는곳 나의 길도 있으리라 여겼지  
+생각에 잠겨 한참을 걸어가다 나의 눈에비친 세상은   
+학교에서 배웠던것처럼 아름답지만은 않았었지  
+  
+무엇을 해야하나 어디로 가야하는 걸까  
+알수는 없었지만 그것이 나의 첫 깨어남이었지  
+  
+난후회하지 않아 아쉬움은 남겠지만 아주 먼 훗날까지도   
+난 변하지 않아 나의 길을가려하던 처음 그 순간처럼  
+자랑할것은 없지만 부끄럽고 싶지 않은 나의 길   
+언제나 내곁에 있는 그대여 날 지켜봐주오  
+  
+끝없이 뻗은 길의 저편을보면 나를감싸는것은 두려움   
+혼자걷기에는 너무멀어 언제나 누군가를 찾고있지   
+세상의 모든것은 성공과 실패로 나누고   
+삶의 끝 순간까지 숨가쁘게 사는 그런삶은 싫어
