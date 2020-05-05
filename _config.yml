@@ -16,9 +16,7 @@
 title: Shin's Play Ground
 email: godz8008@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  개인적인 학습일지, 취미 정리, 인터넷 메모장 용도입니다.
 twitter_username: username
 github_username: godz8008
 minimal_mistakes_skin: default
@@ -35,6 +33,10 @@ timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zo
 
 include:
   - _pages
+
+# disqus(포스트에 뎃글기능 붙이기 참고사이트: https://devmjun.github.io/archive/addComments)
+disqus_url: http://disqus.com/by/godz8008
+disqus_id: godz8008
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -71,22 +73,22 @@ author:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/godz8008"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/KimShin35742658"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/godz8008"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
