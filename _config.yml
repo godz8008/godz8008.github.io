@@ -35,8 +35,8 @@ include:
   - _pages
 
 # disqus(포스트에 뎃글기능 붙이기 참고사이트: https://devmjun.github.io/archive/addComments)
-disqus_url: http://disqus.com/by/godz8008
-disqus_id: godz8008
+# disqus_url: http://disqus.com/by/godz8008
+# disqus_id: godz8008
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -99,7 +99,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      # comments: true
+      comments:
+        provider: "disqus"
+        disqus:
+          shortname: "godz8008"
       share: true
       related: true
   # _pages
