@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "Archive"
+    url: /year-archive/
+  - title: "tag"
     url: /tags/
-  - title: "길위에서"
-    url: /about/
+  - title: "Category"
+    url: /categories/
